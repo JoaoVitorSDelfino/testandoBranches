@@ -5,7 +5,9 @@
 ## Como utilizar
 
 __Primeiro passo__ - Abrir o arquivo index.html, localizado na pasta src
+
 __Segundo passo__ - Digitar um número de quatro digitos qualquer na caixa de texto
+
 __Terceiro passo__ - Apertar o botão "Enviar"
 
 ***
