@@ -34,12 +34,12 @@ __Terceiro passo__ - Apertar o botão "Enviar"
 ## Desenvolvimento
 1. Iniciei o projeto desenvolvendo a parte frontend do programa, o index.html e style.css
 2. Desenvolvi a parte de javascript, contendo funções básicas como:
-    2.1 Criar de um PIN estático (3636);
-    2.2 Verificar se o valor digitado é realmente um número;
-    2.3 Oferecer feedback de quão perto o usuário está de acertar o PIN;
+    - Criar de um PIN estático (3636);
+    - Verificar se o valor digitado é realmente um número;
+    - Oferecer feedback de quão perto o usuário está de acertar o PIN;
 3. Após as implementações básicas, foi desenvolvido funções mais avançadas:
-    3.1 Verificar se o valor digitado não é nulo, possui 4 digitos e não é negativo;
-    3.2 Substituição do PIN estático por um gerado aleatoriamente;
+    - Verificar se o valor digitado não é nulo, possui 4 digitos e não é negativo;
+    - Substituição do PIN estático por um gerado aleatoriamente;
 4. Pequenos fixes envolvendo lógica
 5. Pequenas modificações e otimizações envolvendo a interface (.css)
 6. Criação da documentação (README.md e commits)
