@@ -28,7 +28,7 @@ __Terceiro passo__ - Apertar o botão "Enviar"
 
 ***
 
-**Desenvolvimento**
+## Desenvolvimento
 1. Iniciei o projeto desenvolvendo a parte frontend do programa, o index.html e style.css
 2. Desenvolvi a parte de javascript, contendo funções básicas como:
     2.1 Criar de um PIN estático (3636);
@@ -44,7 +44,7 @@ __Terceiro passo__ - Apertar o botão "Enviar"
 
 ***
 
-**Dificuldades**
+## Dificuldades
 Tive certa dificuldade na hora de definir um limite para quando se deve mostrar uma mensagem de quão perto o usuário estava de acertar o PIN. Primeiro tive a ideia de criar limites baseados em uma fração do número, entretanto era imprático para números muito grandes e aqueles que chegavam muito perto dos limites (0000 e 9999). Por fim, optei por utilizar um limite estático de 150
 
 Tive problemas também em relação aos commits, estava com um pouco de dúvida se os meus commits estavam seguindo o padrão semântico mostrado, mas com um pouco a mais de pesquisa fui capaz de resolver o problema.
