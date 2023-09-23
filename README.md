@@ -1,4 +1,4 @@
-![image](https://github.com/JoaoVitorSDelfino/testandoBranches/assets/103132209/75403950-a176-4786-bdab-a91d99910ed4)# Avaliação Sprint 1 - Programa de Bolsas Compass UOL / AWS e UTFPR
+## Avaliação Sprint 1 - Programa de Bolsas Compass UOL / AWS e UTFPR
 
 ***
 
@@ -10,9 +10,7 @@ __Segundo passo__ - Digitar um número de quatro digitos qualquer na caixa de te
 
 __Terceiro passo__ - Apertar o botão "Enviar"
 
-<img width="450" alt="imagemSistemas" src="https://github.com/JoaoVitorSDelfino/gitTreino/assets/103132209/0b788368-e94d-4a1a-82e0-031d54d00411">
-<img width="450" alt="imageSistema" src="https://github.com/JoaoVitorSDelfino/testandoBranches/assets/103132209/dcab97e9-8236-48dd-9f67-4da159167ff6">
-
+<img width="430" alt="imagemSistema" src="https://github.com/JoaoVitorSDelfino/testandoBranches/assets/103132209/515347c9-985b-4d43-9763-61ae5e047c39">
 
 ***
 
