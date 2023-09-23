@@ -10,7 +10,7 @@ __Segundo passo__ - Digitar um número de quatro digitos qualquer na caixa de te
 
 __Terceiro passo__ - Apertar o botão "Enviar"
 
-<img width="430" alt="imagemSistema" src="https://github.com/JoaoVitorSDelfino/testandoBranches/assets/103132209/515347c9-985b-4d43-9763-61ae5e047c39">
+<img width="430" alt="imagemAtualizada" src="https://github.com/JoaoVitorSDelfino/testandoBranches/assets/103132209/502eab21-0813-4836-ba5c-ef1c52383873">
 
 ***
 
