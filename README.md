@@ -32,8 +32,7 @@ __Terceiro passo__ - Apertar o botão "Enviar"
 - O código gera um intervalo que mostra aproximadamente aonde a resposta está, de acordo com tentativas anteriores do usuário
   - Número da esquerda: Maior tentativa entre as menores 
   - Número da direita: Menor tentativa entre as maiores
-  - Ex.: Reposta = 4000
-         Possível intervalo = 2300 - 4100
+  - Ex.: PIN Gerado = 4000 | Possível intervalo = 2300 - 4100
 
 ***
 
