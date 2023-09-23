@@ -1,4 +1,4 @@
-## Avaliação Sprint 1 - Programa de Bolsas Compass UOL / AWS e UTFPR
+# Avaliação Sprint 1 - Programa de Bolsas Compass UOL / AWS e UTFPR
 
 ***
 
@@ -28,6 +28,10 @@ __Terceiro passo__ - Apertar o botão "Enviar"
     - Valores string como "bom dia"
     - Valores negativos como "-2131"
     - Valores com mais/menos que 4 digitos como "123"
+- Toda tentativa de acerto é contada
+- O código gera um intervalo que mostra aproximadamente aonde a resposta está, de acordo com tentativas anteriores do usuário
+  - Número da esquerda: Maior tentativa entre as menores 
+  - Número da direita: Menor tentativa entre as maiores
 
 ***
 
@@ -40,6 +44,8 @@ __Terceiro passo__ - Apertar o botão "Enviar"
 3. Após as implementações básicas, foi desenvolvido funções mais avançadas:
     - Verificar se o valor digitado não é nulo, possui 4 digitos e não é negativo;
     - Substituição do PIN estático por um gerado aleatoriamente;
+    - Criar contador de tentativas;
+    - Criar um intervalo de tentativas;
 4. Pequenos fixes envolvendo lógica
 5. Pequenas modificações e otimizações envolvendo a interface (.css)
 6. Criação da documentação (README.md e commits)
