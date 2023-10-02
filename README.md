@@ -5,9 +5,13 @@
 ## Instruçoes
 
 __Primeiro passo__ - Realizar o pull da branch equipe-3;
+
 __Segundo passo__ - Abrir o terminal na pasta src;
+
 __Terceiro passo__ - Digite *npm install* e depois *npm run dev*, a aplicação será iniciada na porta 3000;
+
 __Quarto passo__ - Acessar um navegador de sua preferência, e digite *http://localhost:3000/* na barra de pesquisa URL;
+
 __Quinto passo__ - Agora dentro da aplicação, digite uma cidade de sua preferência, **sem acentuação**;
   *OBS.: o local padrão é definido como Garulhos*
 
