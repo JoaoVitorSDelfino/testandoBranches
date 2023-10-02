@@ -18,6 +18,8 @@ __Quinto passo__ - Agora dentro da aplicação, digite uma cidade de sua prefer�
 
 <img width="300" alt="images1" src="https://github.com/Compass-pb-aws-2023-UTFPR/sprint-2-pb-aws-utfpr/assets/103132209/7bec4e3c-bbd0-45d1-bfc0-d033bfd939b5">
 
+***
+
 ## Funcionamento
 
 - O sistema oferece dados em tempo real do clima de inúmeras cidades ao redor do globo;
