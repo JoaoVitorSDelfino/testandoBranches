@@ -11,7 +11,7 @@ __Quarto passo__ - Acessar um navegador de sua preferência, e digite *http://lo
 __Quinto passo__ - Agora dentro da aplicação, digite uma cidade de sua preferência, **sem acentuação**;
   *OBS.: o local padrão é definido como Garulhos*
 
-<img width="430" alt="images1" src="https://github.com/Compass-pb-aws-2023-UTFPR/sprint-2-pb-aws-utfpr/assets/103132209/7bec4e3c-bbd0-45d1-bfc0-d033bfd939b5">
+<img width="200" alt="images1" src="https://github.com/Compass-pb-aws-2023-UTFPR/sprint-2-pb-aws-utfpr/assets/103132209/7bec4e3c-bbd0-45d1-bfc0-d033bfd939b5">
 
 ## Funcionamento
 
